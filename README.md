@@ -1,4 +1,7 @@
 # docker-info-
+## WHAT IS A DOCKER
+Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine. 
+
 ``` # Add Docker's official GPG key:
 sudo apt-get update
 sudo apt-get install ca-certificates curl
